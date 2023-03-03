@@ -33,9 +33,8 @@
 
 ## Autor do projeto:
 
-### Rubem Calixto
-
--Linkedin: https://www.linkedin.com/in/rubemcalixto/
+### Rubem Calixto da Silva
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubemcalixto/)](https://www.linkedin.com/in/rubemcalixto/)
 
 
 
